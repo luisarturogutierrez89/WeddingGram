@@ -3,8 +3,8 @@
 //  WeddingGram
 //
 //  Created by Personal on 03/09/17.
-//  Copyright © 2017 Josue. All rights reserved.
-//
+//  Copyright © 2017 Josuessa. All rights reserved.
+// Test
 
 import UIKit
 
