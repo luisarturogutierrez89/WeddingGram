@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					609693FF1F5C9B2900119FE3 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = H46GZ2RY2C;
 						ProvisioningStyle = Automatic;
 					};
 					609694131F5C9B2A00119FE3 = {
@@ -341,6 +342,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H46GZ2RY2C;
 				INFOPLIST_FILE = WeddingGram/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.krakenLabs.WeddingGram;
@@ -353,6 +355,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H46GZ2RY2C;
 				INFOPLIST_FILE = WeddingGram/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.krakenLabs.WeddingGram;
@@ -408,6 +411,7 @@
 				6096941F1F5C9B2A00119FE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		609694201F5C9B2A00119FE3 /* Build configuration list for PBXNativeTarget "WeddingGramTests" */ = {
 			isa = XCConfigurationList;
@@ -416,6 +420,7 @@
 				609694221F5C9B2A00119FE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
